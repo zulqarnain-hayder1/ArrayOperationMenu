@@ -1,6 +1,5 @@
 # ArrayOperationMenu
-Array -operatioin-menu-java
-nstruction 
+instruction 
 Write a Java program to implement a menu-driven system for the following operations on an 
 integer array and also design algorithm: 
 1. Traversal:  
